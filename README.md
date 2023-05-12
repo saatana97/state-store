@@ -10,8 +10,8 @@
 # 安装
 
 ```
-npm install --save @wink/state-store
-pnpm add --save @wink/state-store
+npm install --save @saatana97/state-store
+pnpm add --save @saatana97/state-store
 ```
 
 # 使用
