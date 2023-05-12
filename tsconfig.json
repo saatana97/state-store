@@ -10,7 +10,7 @@
         "outDir": "types",
         "rootDirs": ["src", "docs"],
         "declaration": true,
-        "declarationMap": true,
+        "declarationMap": false,
         "emitDeclarationOnly": true,
         "skipLibCheck": true
     },
