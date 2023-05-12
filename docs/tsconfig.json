@@ -1,0 +1,11 @@
+{
+    "include": ["env.d.ts", "src/**/*"],
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["./src/*"]
+        },
+        "lib": ["ESNext", "DOM"],
+        "skipLibCheck": true
+    }
+}
